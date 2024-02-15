@@ -1,4 +1,4 @@
-# Bike-Sharing-Demand-Prediction - Supervise ML Regression
+# Bike-Sharing-Demand-Prediction - Supervised ML Regression
 
 
 ### Project Description:
